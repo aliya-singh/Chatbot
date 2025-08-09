@@ -1,7 +1,7 @@
-langchain
-openai
-huggingface_hub
-streamlit==1.37.1
-langchain==0.2.14
-langchain-openai==0.1.22
-python-dotenv==1.0.1
+streamlit==1.28.1
+python-dotenv==1.0.0
+langchain==0.1.0
+langchain-google-genai==0.0.6
+google-generativeai==0.3.2
+langchain-core==0.1.10
+pydantic==2.5.2
